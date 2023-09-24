@@ -42,7 +42,7 @@
     },
     "require": {
         "laravel/framework": "^10.0",
-        "illuminate/support": "^^10.0"
+        "illuminate/support": "^10.0"
     },
     "require-dev": {
         "phpmd/phpmd": "^2.8",
