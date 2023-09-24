@@ -1,7 +1,6 @@
 {
     "name": "klongchu/laravel-nuxt",
     "description": "NuxtJS framework integration for Laravel",
-    "version": "1.2.0",
     "type": "library",
     "keywords": [
         "laravel",
